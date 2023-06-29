@@ -20,7 +20,8 @@ import {ToggleComponent} from './ShortCircuit'; */
 // import UseRefBasic from './UseRef1';
 // import UseReducerBasic from './useReducer';
 // import ContextAPI from './ContextAPI';
-import ProductPT from './PropTypes';
+// import ProductPT from './PropTypes';
+import ChatApp from './ChatApp';
 
 function App() {
   return (
@@ -45,7 +46,8 @@ function App() {
       {/* <UseRefBasic></UseRefBasic> */}
       {/* <UseReducerBasic></UseReducerBasic> */}
       {/* <ContextAPI /> */}
-      <ProductPT />
+      {/* <ProductPT /> */}
+      <ChatApp></ChatApp>
     </div>
   );
 }
